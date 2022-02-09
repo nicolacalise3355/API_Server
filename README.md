@@ -1,4 +1,14 @@
 # API_Server
-il seguente sistema implementa una serie di pagine web che permettono agli utenti di testare delle proprie API inviando delle richieste al server e interrogando un databse secondo le indicazioni che il sito stesso espone.
+Il sistema implementa una serie di pagina Server per testare le proprie API.
+I componenti e le specifiche di collegamento con il database verranno descritte in delle pagine html.
+Linguaggi:
+Interfaccia Web:
+- Html, Js
 
-All'interno del sito e' possibile visionare come e' composto il database, quali sono le pagine server e che richieste accettano.
+Server:
+- Php
+
+Database:
+- Apache Mysql 
+
+Consigliato l'utilizzo di un ambiente lamp
